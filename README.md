@@ -1,6 +1,4 @@
-
 # Nastavení a commandy
----
 ##### Instalace zsh
 ```bash
 sudo apt update && sudo apt install zsh
