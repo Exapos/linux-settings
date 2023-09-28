@@ -50,5 +50,5 @@ git clone https://github.com/djui/alias-tips.git ${ZSH_CUSTOM:-~/.oh-my-zsh/cust
 nano ~/.zshrc
 ```
 
-V souboru ```/.zshrc``` najdu **plugins(git)** a dopíšu tam  ```plugins(git autosuggestion zsh-syntax-highlighting sudo z websearch jsontools alias-tips)``` a nastavím theme jako ```ZSH_THEME="powerlevel10k/powerlevel10k"```
+V souboru ```/.zshrc``` najdu **plugins(git)** a dopíšu tam  ```plugins(git zsh-autosuggestion zsh-syntax-highlighting sudo z websearch jsontools alias-tips)``` a nastavím theme jako ```ZSH_THEME="powerlevel10k/powerlevel10k"```
 Zavřu a nastavím si podle preference terminal
